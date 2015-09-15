@@ -1,0 +1,42 @@
+body {
+  background: #777;
+  margin: 0;
+  font-family: sans-serif;
+}
+
+.header {
+  background: #000;
+}
+
+.header img {
+  margin: auto;
+  display: block;
+}
+
+.sidebar {
+  background: #333;
+  width: 25%;
+  height: 800px;
+  display: inline-block;
+  float: left;
+  margin-right: 2%;
+}
+
+.sidebar ul {
+  list-style: none;
+  line-height: 2em;
+}
+div.main {
+  width: 60%;
+  margin: auto;
+  display: inline-block;
+}
+
+.main img {
+  float: right;
+}
+
+.info {
+  font-style: italic;
+  font-weight: bold;
+}
