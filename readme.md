@@ -7,7 +7,7 @@ Jeff Seymour
 Epicodus Intro to Programming
 
 ###Description
-Basic website about a favorite band, showing basic floats and css layout.
+Basic website about a favorite band, showing basic floats, box model, and css layout.
 
 ###Setup Instructions
 None.
